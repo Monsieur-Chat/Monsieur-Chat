@@ -1,4 +1,4 @@
-<h1 align="center">Just my Bio !</h1>
+<h1 align="center">Just my Bio :zap:</h1>
 
 <p align="center">
 
