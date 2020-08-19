@@ -6,6 +6,9 @@
 
 <img src="https://img.shields.io/badge/Languages-JS%20%2F%20CSS%20%2F%20HTML%20%2F%20PY-informational" >
 
+</p>
+
+<p>
 <img src="https://github-readme-stats.vercel.app/api?username=0x307845&show_icons=true&theme=tokyonight" >
 </p>
 
