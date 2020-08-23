@@ -1,6 +1,6 @@
-<center>
-<img align ="center" src="https://i.ibb.co/r6bPkrx/600x200.jpg">
-</center>    
+<p align="center">
+    <img align ="center" src="https://i.ibb.co/r6bPkrx/600x200.jpg">
+</p>   
     
 <p align="center">
     <a href="https://discord.gg/DDtDRU7">
