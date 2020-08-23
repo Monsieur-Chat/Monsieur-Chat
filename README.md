@@ -1,5 +1,4 @@
-<h1 align="center">:zap: Just my Bio :zap:</h1>
-
+<img src="https://i.ibb.co/r6bPkrx/600x200.jpg">
 <p align="center">
     <a href="https://discord.gg/DDtDRU7">
     <img src="https://img.shields.io/badge/Discord-Click Here-informational">
@@ -10,7 +9,7 @@
     <img src="https://img.shields.io/badge/Website-Click Here-blue">
     </a>
 
-<img src="https://i.ibb.co/r6bPkrx/600x200.jpg">
+
 </p>
 
 <p align="center">
