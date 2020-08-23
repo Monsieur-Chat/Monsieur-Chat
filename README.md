@@ -14,9 +14,9 @@
 </p>
 
 <p align="center">
-    Hi user <br>
+    <strong>Hi user <br>
     I am just a infosec and cyberpunk fan <br> 
-    Enjoy on my Git ! <br>
+    Enjoy on my Git !</strong> <br>
 </p>
 
 <p align="center">
