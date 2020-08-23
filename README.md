@@ -1,4 +1,7 @@
+<center>
 <img align ="center" src="https://i.ibb.co/r6bPkrx/600x200.jpg">
+</center>    
+    
 <p align="center">
     <a href="https://discord.gg/DDtDRU7">
     <img src="https://img.shields.io/badge/Discord-Click Here-informational">
