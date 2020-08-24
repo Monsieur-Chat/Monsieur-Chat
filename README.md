@@ -16,7 +16,7 @@
 
 <p align="center">
     <strong>Hi user ! <br>
-    I am just a infosec and cyberpunk fan, <br> 
+    I am just a Technomancer and cyberpunk fan, <br> 
     Enjoy on my Git !</strong> <br>
 </p>
 
