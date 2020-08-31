@@ -9,8 +9,8 @@
     <img src="https://img.shields.io/badge/Website-Click Here-blue">
     </a>
 
-</p>
-<img src="https://64.media.tumblr.com/a41f2d004a83b9d4693b0da26003b13a/dbaa48e7fc26ba53-5d/s500x750/6899d1bd9d68f1438fb17623c6a52a12c6e86354.png" >
+</p align="center">
+<img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/ed127393-096a-4e3e-8e74-b316ad61551f/dbgeghv-f1b779fc-9c91-4ba6-8892-f9e8ef49f330.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOiIsImlzcyI6InVybjphcHA6Iiwib2JqIjpbW3sicGF0aCI6IlwvZlwvZWQxMjczOTMtMDk2YS00ZTNlLThlNzQtYjMxNmFkNjE1NTFmXC9kYmdlZ2h2LWYxYjc3OWZjLTljOTEtNGJhNi04ODkyLWY5ZThlZjQ5ZjMzMC5wbmcifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6ZmlsZS5kb3dubG9hZCJdfQ.yXgDd704AKm_Eh3c137rsNfGlHlrPxRy2vUJJWpv0Wk" >
 </p>
     
 </p>
