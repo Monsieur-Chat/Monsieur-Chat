@@ -5,12 +5,16 @@
     <a href="https://discord.gg/DDtDRU7">
     <img src="https://img.shields.io/static/v1?label=Discord&logo=Discord&message=Click%20Here&color=7289DA">
     </a>
-
-<img src="https://img.shields.io/badge/Languages-JS%20%2F%20CSS%20%2F%20HTML%20%2F%20PY-blueviolet" >
     <a href="https://0x307845.github.io">
     <img src="https://img.shields.io/badge/Website-Click Here-blue">
     </a>
 
+</p>
+<img src="https://64.media.tumblr.com/a41f2d004a83b9d4693b0da26003b13a/dbaa48e7fc26ba53-5d/s500x750/6899d1bd9d68f1438fb17623c6a52a12c6e86354.png" >
+</p>
+    
+</p>
+<img src="https://img.shields.io/badge/Languages-JS%20%2F%20CSS%20%2F%20HTML%20%2F%20PY-blueviolet" >
 </p>
 
 ___
