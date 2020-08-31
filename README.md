@@ -1,9 +1,6 @@
 <p align="center">
     <img align ="center" src="https://i.ibb.co/r6bPkrx/600x200.jpg">
 </p>   
-
-___
-
 <p align="center">
     <a href="https://discord.gg/DDtDRU7">
     <img src="https://img.shields.io/badge/Discord-Click Here-informational">
@@ -28,5 +25,5 @@ ___
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=0x307845&show_icons=true&theme=tokyonight" >
-<img src="https://tryhackme-badges.s3.amazonaws.com/0x307845.png" alt="TryHackMe">
+<img src="https://tryhackme-badges.s3.amazonaws.com/0x307845.png">
 </p>
