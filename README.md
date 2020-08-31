@@ -3,7 +3,7 @@
 </p>   
 <p align="center">
     <a href="https://discord.gg/DDtDRU7">
-    <img src="https://img.shields.io/badge/Discord-Click Here-informational">
+    <img src="https://img.shields.io/static/v1?label=Discord&logo=Discord&message=Click%20Here&color=7289DA">
     </a>
 
 <img src="https://img.shields.io/badge/Languages-JS%20%2F%20CSS%20%2F%20HTML%20%2F%20PY-blueviolet" >
