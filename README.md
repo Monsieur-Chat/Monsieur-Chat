@@ -13,19 +13,12 @@
 <img src="https://img.shields.io/static/v1?label=Languages&logo=LBRY&logoColor=2F9176&message=JS%20%2F%20CSS%20%2F%20HTML%20%2F%20PY&color=2F9176">
 </p>
 
-___
-
 <p align="center">
     <strong>Hi user ! <br>
     I am just a Technomancer and cyberpunk fan, <br> 
     Enjoy on my Git !</strong> <br>
 </p>
 
-___
-
-<p align="center">
-        <strong>Stats :</strong>
- </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=0x307845&show_icons=true&theme=tokyonight" >
 </p>
