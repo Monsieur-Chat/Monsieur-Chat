@@ -10,7 +10,7 @@
     </a>
 </p>
 <p align="center">
-<img src="https://img.shields.io/static/v1?label=Website&logo=LBRY&logoColor=2F9176&message=Languages-JS%20%2F%20CSS%20%2F%20HTML%20%2F%20PY&color=2F9176">
+<img src="https://img.shields.io/static/v1?label=Languages&logo=LBRY&logoColor=2F9176&message=Languages JS%20%2F%20CSS%20%2F%20HTML%20%2F%20PY&color=2F9176">
 </p>
 
 ___
@@ -24,9 +24,9 @@ ___
 ___
 
 <p align="center">
-    <h2align="center">
-        <strong>Stats</strong>
-    </h2>
+    <h1 align="center">
+        <strong>Stats :</strong>
+    </h1>
  </p>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=0x307845&show_icons=true&theme=tokyonight" >
