@@ -18,9 +18,11 @@
 </p>
 
 <p align="center">
+    <br>
     <strong>Hi user !<br>
     I am just a Technomancer and cyberpunk fan,<br> 
     Enjoy on my Git !</strong> <br>
+    <br>
 </p>
 
 <p align="center">
