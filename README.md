@@ -28,5 +28,5 @@ ___
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=0x307845&show_icons=true&theme=tokyonight" >
+<img src="https://tryhackme-badges.s3.amazonaws.com/0x307845.png" alt="TryHackMe">
 </p>
-<script src="https://tryhackme.com/badge/166688"></script>
