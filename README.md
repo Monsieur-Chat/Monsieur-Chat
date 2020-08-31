@@ -12,7 +12,7 @@
 <p align="center">
 <img src="https://img.shields.io/static/v1?label=Languages&logo=LBRY&logoColor=2F9176&message=JS%20%2F%20CSS%20%2F%20HTML%20%2F%20PY&color=2F9176">
 </p>
-
+<br>
 <p align="center">
 ─────────────────────────────────────
 </p>
@@ -28,7 +28,7 @@
 <p align="center">
 ──────────────────────────────────────
 </p>
-
+<br>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=0x307845&show_icons=true&theme=tokyonight" >
 </p>
