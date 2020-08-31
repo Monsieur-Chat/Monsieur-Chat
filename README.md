@@ -10,7 +10,7 @@
     </a>
 </p>
 <p align="center">
-<img src="https://img.shields.io/badge/Languages-JS%20%2F%20CSS%20%2F%20HTML%20%2F%20PY-blueviolet" >
+<img src="https://img.shields.io/static/v1?label=Website&logo=CSS3&logoColor=2F9176&message=Languages-JS%20%2F%20CSS%20%2F%20HTML%20%2F%20PY&color=2F9176">
 </p>
 
 ___
