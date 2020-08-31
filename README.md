@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/static/v1?label=Discord&logo=Discord&message=Click%20Here&color=7289DA">
     </a>
     <a href="https://0x307845.github.io">
-    <img src="https://img.shields.io/badge/Website-Click Here-blue">
+    <img src="https://img.shields.io/static/v1?label=Website&logo=CSS3&message=Click%20Here&color=1572B6">
     </a>
 </p>
 <p align="center">
