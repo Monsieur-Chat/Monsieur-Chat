@@ -24,7 +24,7 @@ ___
 ___
 
 <p align="center">
-    <h2>
+    <h2align="center">
         <strong>Stats</strong>
     </h2>
 <img src="https://github-readme-stats.vercel.app/api?username=0x307845&show_icons=true&theme=tokyonight" >
