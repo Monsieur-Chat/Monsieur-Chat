@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="htts://github.com/0x307845/0x307845/banner.gif">
+    <img src="https://i.ibb.co/k0hcZdh/ezgif-com-crop.gif">
 </p>   
 <br>
 <p align="center">
