@@ -1,7 +1,5 @@
 <p align="center">
-    <img>
-     <a href="https://ibb.co/GkVPmhV"><img src="https://i.ibb.co/1K92cS9/ezgif-com-crop.gif" alt="ezgif-com-crop" border="0"></a>
-    </img>
+    <img src="banner.gif">
 </p>   
 <br>
 <p align="center">
