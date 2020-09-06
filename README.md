@@ -2,9 +2,8 @@
     <img src="https://i.ibb.co/k0hcZdh/ezgif-com-crop.gif">
 </p>   
 <br>
-<p align="center">
-─────────────────────────────────────
-</p>
+<br>
+<br>
 <br>
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x307845&layout=compact&theme=tokyonight"
