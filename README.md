@@ -29,9 +29,9 @@
 ──────────────────────────────────────
 <p align="center">
     <details align="center">
-    <summary> Stats </summary>
-        <img src="https://github-readme-stats.vercel.app/api?username=0x307845&show_icons=true&theme=tokyonight" >
-        <br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x307845&layout=compact&theme=tokyonight"
+        <summary> Stats </summary>
+            <img src="https://github-readme-stats.vercel.app/api?username=0x307845&show_icons=true&theme=tokyonight" >
+            <br>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x307845&layout=compact&theme=tokyonight"
     </details>
 </p>
