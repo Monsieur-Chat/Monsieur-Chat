@@ -31,6 +31,7 @@
             </p>
      </details>
      <details align="center">
+        <p align="center">
         <summary> Social </summary>
          <a href="https://discord.gg/DDtDRU7">
          <img src="https://img.shields.io/static/v1?label=Discord&logo=Discord&message=Click%20Here&color=7289DA">
@@ -40,7 +41,8 @@
          </a>
          <br>
          <br>
-         - Discord : 0xE#0140
-         - Twitter : 0x307845
-         - THM : 0x307845
+         - Discord : 0xE#0140 <br>
+         - Twitter : 0x307845 <br>
+         - THM : 0x307845 <br>
+         </p>
      </details>
