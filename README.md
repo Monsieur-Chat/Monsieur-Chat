@@ -4,7 +4,6 @@
 <br>
 <br>
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x307845&layout=compact&theme=tokyonight"
 </p>
 <br>
 <br>
@@ -28,8 +27,8 @@
 <p align="center">
 <br>
 ──────────────────────────────────────
-</p>
-<br>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=0x307845&show_icons=true&theme=tokyonight" >
-</p>
+<details style='text-align: center;' align='center'>
+  <summary> Information </summary>
+    <img src="https://github-readme-stats.vercel.app/api?username=0x307845&show_icons=true&theme=tokyonight" >
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x307845&layout=compact&theme=tokyonight"
+</details>
