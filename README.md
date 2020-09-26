@@ -27,11 +27,11 @@
 <p align="center">
 <br>
 ──────────────────────────────────────
-<p align="center">
     <details align="center">
         <summary> Stats </summary>
+            <p align="center">
             <img src="https://github-readme-stats.vercel.app/api?username=0x307845&show_icons=true&theme=tokyonight" >
             <br>
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x307845&layout=compact&theme=tokyonight"
-    </details>
-</p>
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x307845&layout=compact&theme=tokyonight">
+            </p>
+     </details>
