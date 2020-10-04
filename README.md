@@ -18,6 +18,7 @@
     I am just a Technomancer and cyberpunk fan,<br> 
     Enjoy on my Git !</strong> <br>
     <br>
+    </strong>
  
 <p align="center">
          <a href="https://discord.gg/DDtDRU7">
