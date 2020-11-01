@@ -35,7 +35,5 @@
 <br>
 <br>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x307845&layout=compact&theme=tokyonight">
-<br>
-<img src="https://tryhackme-badges.s3.amazonaws.com/0x307845.png">
 </p>
 
