@@ -13,7 +13,7 @@
     <br>
     <strong>Hi user !<br>
     I am just a Technomancer and cyberpunk fan,<br>
-    It Student <3<br>
+    Network Student <3<br>
     Enjoy on my Git !</strong> <br>
     <br>
     </strong>
