@@ -18,7 +18,7 @@
     </strong>
  
 <p align="center">
-         <a href="https://discord.gg/DDtDRU7">
+         <a href="https://discord.gg/Y3Tpmwe">
          <img src="https://img.shields.io/static/v1?label=Discord&logo=Discord&message=Click%20Here&color=7289DA">
          </a>
          <a href="https://0x307845.github.io">
