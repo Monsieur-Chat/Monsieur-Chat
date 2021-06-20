@@ -12,8 +12,8 @@
 <p align="center">
     <br>
     <strong>Hi user !<br>
-    I am just a Technomancer and cyberpunk fan,<br>
-    Network Student <3<br>
+    I am just a Technomancer and cyberpunk fan<br>
+    Network Student<br>
     Enjoy on my Git !</strong> <br>
     <br>
     </strong>
