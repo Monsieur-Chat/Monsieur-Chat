@@ -37,4 +37,4 @@
 <br>
 <br>
 <br>
-<p align="center">You can try to beat my website : ['Tets'](https://0x307845.github.io/)
+<p align="center">You can try to beat my website : ('Tets')[https://0x307845.github.io/]
