@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://i.ibb.co/k0hcZdh/ezgif-com-crop.gif">
+    <img src="https://i.ibb.co/H7yqN06/final-612ba1410b2261004b7adddf-552276.gif">
 </p>   
 <br>
 <br>
@@ -12,8 +12,8 @@
 <p align="center">
     <br>
     <strong>Hi user !<br>
-    I am just a Technomancer and cyberpunk fan<br>
-    Network Student<br>
+    I am just a Technomancer and pixel art fan<br>
+    IT Student<br>
     Enjoy on my Git !</strong> <br>
     <br>
     </strong>
