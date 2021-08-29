@@ -32,6 +32,6 @@
 <p align="center"><strong>You can try to beat my website : <a href="https://0x307845.github.io">0x307845.github.io</a></strong>
 <br>
 <br>
-<p align="center"><em>And remember one thing, IT shouldn't be used to improve your ego but as a creative tool.
+<p align="center"><em>And remember one thing, IT shouldn't be used to improve your ego but as a creative tool.</em>
 <br>
 <p align="center"><strong><3</strong>
