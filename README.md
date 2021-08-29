@@ -30,3 +30,8 @@
 
 <br>
 <p align="center">You can try to beat my website : <a href="https://0x307845.github.io">0x307845.github.io</a>
+<br>
+<br>
+<p align="center">And remember one thing, IT shouldn't be used for your ego but as a creative tool.
+<br>
+<p align="center"> <3
