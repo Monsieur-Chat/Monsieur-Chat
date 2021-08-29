@@ -29,9 +29,9 @@
 
 
 <br>
-<p align="center">You can try to beat my website : <a href="https://0x307845.github.io">0x307845.github.io</a>
+<p align="center"><strong>You can try to beat my website : <a href="https://0x307845.github.io">0x307845.github.io</a></strong>
 <br>
 <br>
-<p align="center">And remember one thing, IT shouldn't be used to improve your ego but as a creative tool.
+<p align="center"><em>And remember one thing, IT shouldn't be used to improve your ego but as a creative tool.
 <br>
-<p align="center"> <3
+<p align="center"><strong><3</strong>
