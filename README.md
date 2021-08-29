@@ -37,6 +37,4 @@
 <br>
 <br>
 <br>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0x307845&layout=compact&theme=solarized-light">
-</p>
+<p align="center">You can try to beat my website : ['Tets'](https://0x307845.github.io/)
