@@ -6,19 +6,19 @@
 ---
 
 ```js
-const me = {
+const Me = {
   Personal: {
-    Studies : ["Javascript", "CSS", "SASS", "HTML"],
-    Interest : ["Java", "C#", "C", "C++", "PhP", "Go"],
-    Project : ["GraphQL", "SQL", "PL/SQL", "T-SQL", "Cypher"],
+    Learning : ["Network", "Pentesting", "Web", "Sysadmin"],
+    Interest : ["Java", "Go", "Cloud", "Forensic"],
+    Project : ["Entropy", "0x307845.me"],
     FavouriteDistro: "Arch",
     Certification : ["x64 Assembly"]
   },
   Skills: {
-    Cybersecurity : ["Metasploit Framework", "SQLMap", "Burp Suite", "Reverse shells", "gobuster" , "Hydra" , "and more ..."],
-    Programming : ["c", "JS", "Perl", "Python", "PHP", "Java"],
+    Pentesting : ["Metasploit Framework", "SQLMap", "Burp Suite", "Reverse shells", "gobuster" , "and more ..."],
+    Programming : ["C", "JS", "Perl", "Python", "PHP"],
     Sysadmin : ["pfsense", "iptables", "private keys", "sudo"],
-    Framework : ["Bootstrap", "NodeJS" , ""]
+    Framework : ["Bootstrap", "NodeJS"]
   }
 };
 ````
