@@ -5,26 +5,45 @@
 
 ---
 
-<p align="center">
-    <br>
-    <strong>Hi user !<br>
-    I am just a Technomancer and pixel art fan<br>
-    IT Student<br>
-    Enjoy on my Git !</strong> <br>
-    <br>
-    </strong>
- 
-<p align="center">
-         <a href="https://discord.gg/Y3Tpmwe">
-         <img src="https://img.shields.io/static/v1?label=Discord&logo=Discord&message=Click%20Here&color=7289DA">
-         </a>
-         <a href="https://0x307845.github.io">
-         <img src="https://img.shields.io/static/v1?label=Website&logo=CSS3&logoColor=1572B6&message=Click%20Here&color=1572B6">
-         </a>
-<br>
-</p>
+```json
+const cybersecurity = {
+  languages: {
+    HTB: ["Javascript", "CSS", "SASS", "HTML"],
+    back: ["Java", "C#", "C", "C++", "PhP", "Go"],
+    query: ["GraphQL", "SQL", "PL/SQL", "T-SQL", "Cypher"],
+    lowLevel: ["x64 Assembly"]
+  },
+  technologies: {
+    databases: ["PostgreSQL", "MySQL / MariaDB", "MongoDB", "Neo4J", "Microsoft SQL Server", "Oracle"],
+    javascript: ["NodeJS", "React", "NextJS", "SocketIO", "Discord.js", "Apollo GraphQL", "Express", "Pupeteer"],
+    "c#": ["Entity Framework"],
+    java: ["Spring", "Maven", "Gradle", "Reactor", "Discord4J", "HikariCP", "JDBI", "JDBC"],
+    php: ["Symfony", "Doctrine", "Smarty", "Ratchet"],
+    go: ["GORM", "DiscordGo"],
+    "c++": ["EasyHook", "Steinberg VST3", "Unreal Engine"]
+  }
+};
+````
+```json
+const cybersecurity = {
+  languages: {
+    HTB: ["Javascript", "CSS", "SASS", "HTML"],
+    back: ["Java", "C#", "C", "C++", "PhP", "Go"],
+    query: ["GraphQL", "SQL", "PL/SQL", "T-SQL", "Cypher"],
+    lowLevel: ["x64 Assembly"]
+  },
+  technologies: {
+    databases: ["PostgreSQL", "MySQL / MariaDB", "MongoDB", "Neo4J", "Microsoft SQL Server", "Oracle"],
+    javascript: ["NodeJS", "React", "NextJS", "SocketIO", "Discord.js", "Apollo GraphQL", "Express", "Pupeteer"],
+    "c#": ["Entity Framework"],
+    java: ["Spring", "Maven", "Gradle", "Reactor", "Discord4J", "HikariCP", "JDBI", "JDBC"],
+    php: ["Symfony", "Doctrine", "Smarty", "Ratchet"],
+    go: ["GORM", "DiscordGo"],
+    "c++": ["EasyHook", "Steinberg VST3", "Unreal Engine"]
+  }
+};
 
-
+````
 ---
 
 
