@@ -6,46 +6,21 @@
 ---
 
 ```js
-const cybersecurity = {
-  languages: {
-    HTB: ["Javascript", "CSS", "SASS", "HTML"],
-    back: ["Java", "C#", "C", "C++", "PhP", "Go"],
-    query: ["GraphQL", "SQL", "PL/SQL", "T-SQL", "Cypher"],
-    lowLevel: ["x64 Assembly"]
+const me = {
+  Personal: {
+    Studies : ["Javascript", "CSS", "SASS", "HTML"],
+    Interest : ["Java", "C#", "C", "C++", "PhP", "Go"],
+    Project : ["GraphQL", "SQL", "PL/SQL", "T-SQL", "Cypher"],
+    FavouriteDistro: "Arch",
+    Certification : ["x64 Assembly"]
   },
-  technologies: {
-    databases: ["PostgreSQL", "MySQL / MariaDB", "MongoDB", "Neo4J", "Microsoft SQL Server", "Oracle"],
-    javascript: ["NodeJS", "React", "NextJS", "SocketIO", "Discord.js", "Apollo GraphQL", "Express", "Pupeteer"],
-    "c#": ["Entity Framework"],
-    java: ["Spring", "Maven", "Gradle", "Reactor", "Discord4J", "HikariCP", "JDBI", "JDBC"],
-    php: ["Symfony", "Doctrine", "Smarty", "Ratchet"],
-    go: ["GORM", "DiscordGo"],
-    "c++": ["EasyHook", "Steinberg VST3", "Unreal Engine"]
+  Skills: {
+    Cybersecurity : ["Metasploit Framework", "SQLMap", "Burp Suite", "Reverse shells", "gobuster" , "Hydra" , and more ...],
+    Programming : ["c", "JS", "Perl", "Python", "PHP", "Java"],
+    Sysadmin : ["pfsense",","iptables","private keys","sudo"],
+    Framework : ["Bootstrap", "NodeJS" , ""]
   }
 };
-````
-
----
-
-```js
-const cybersecurity = {
-  languages: {
-    HTB: ["Javascript", "CSS", "SASS", "HTML"],
-    back: ["Java", "C#", "C", "C++", "PhP", "Go"],
-    query: ["GraphQL", "SQL", "PL/SQL", "T-SQL", "Cypher"],
-    lowLevel: ["x64 Assembly"]
-  },
-  technologies: {
-    databases: ["PostgreSQL", "MySQL / MariaDB", "MongoDB", "Neo4J", "Microsoft SQL Server", "Oracle"],
-    javascript: ["NodeJS", "React", "NextJS", "SocketIO", "Discord.js", "Apollo GraphQL", "Express", "Pupeteer"],
-    "c#": ["Entity Framework"],
-    java: ["Spring", "Maven", "Gradle", "Reactor", "Discord4J", "HikariCP", "JDBI", "JDBC"],
-    php: ["Symfony", "Doctrine", "Smarty", "Ratchet"],
-    go: ["GORM", "DiscordGo"],
-    "c++": ["EasyHook", "Steinberg VST3", "Unreal Engine"]
-  }
-};
-
 ````
 ---
 
