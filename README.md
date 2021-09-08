@@ -17,7 +17,7 @@ const me = {
   Skills: {
     Cybersecurity : ["Metasploit Framework", "SQLMap", "Burp Suite", "Reverse shells", "gobuster" , "Hydra" , "and more ..."],
     Programming : ["c", "JS", "Perl", "Python", "PHP", "Java"],
-    Sysadmin : ["pfsense",","iptables","private keys","sudo"],
+    Sysadmin : ["pfsense", "iptables", "private keys", "sudo"],
     Framework : ["Bootstrap", "NodeJS" , ""]
   }
 };
