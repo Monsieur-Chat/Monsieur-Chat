@@ -2,8 +2,8 @@
     <img src="https://github.com/0x307845/0x307845/blob/master/final_612ba1410b2261004b7adddf_552276.gif">
 </p>   
 <br>
-
----
+<br>
+<br>
 
 ```js
 const Me = {
@@ -22,8 +22,8 @@ const Me = {
   }
 };
 ````
----
-
+<br>
+<br>
 <br>
 <p align="center"><strong>You can try to beat my website : <a href="https://0x307845.me">0x307845.me</a></strong>
 <br>
