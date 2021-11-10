@@ -8,7 +8,7 @@
 ```js
 const Me = {
   Personal: {
-    Learning : ["Network", "Pentesting", "Web", "Sysadmin"],
+    Learning : ["Network", "Pentesting", "Web", "Sysadmin", "Pwn"],
     Interest : ["Java", "Go", "Cloud", "Forensic"],
     Project : ["Entropy", "0x307845.me"],
     FavouriteDistro: "Arch",
