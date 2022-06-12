@@ -15,7 +15,7 @@ const Me = {
     WM : "Kwin"
   },
   Skills: {
-    Pentesting : ["Metasploit Framework", "SQLMap", "Burp Suite", "Reverse shells", "gobuster" , "and more ..."],
+    Pentesting : ["Metasploit Framework", "SQLMap", "Burp Suite", "gobuster" , "and more ..."],
     Programming : ["C", "JS", "Perl", "Python", "PHP"],
     Sysadmin : ["pfsense", "iptables", "private keys", "sudo"],
     Framework : ["Bootstrap", "NodeJS"]
