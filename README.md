@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="https://cdnb.artstation.com/p/assets/images/images/011/676/781/original/pixel-jeff-cafe.gif?1530807813">
+    <img src="https://i.ibb.co/4pkn6fn/5554944068cea50de980a6b27effc7c9.gif"></img>
 </p>
 <br>
 <br>
