@@ -2,9 +2,9 @@
     <img src="https://i.ibb.co/hCkwG8K/ezgif-5-e055743c0e.gif" width="900" height="270"></img>
 </p>
 <br>
-<br>
 <p align="center"><strong>You can try to beat my website : <a href="https://0x307845.me">0x307845.me</a></strong>
 </p>
+<br>
 <br>
 
 ```js
