@@ -5,8 +5,6 @@
 <p align="center"><strong>You can try to beat my website : <a href="https://0x307845.me">0x307845.me</a></strong>
 </p>
 <br>
-<br>
-<br>
 
 ```js
 const Me = {
