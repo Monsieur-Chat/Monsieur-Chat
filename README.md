@@ -18,8 +18,9 @@ const Me = {
   Skills: {
     Pentesting : ["Metasploit Framework", "SQLMap", "Burp Suite", "gobuster" , "and more ..."],
     Programming : ["C", "JS", "Perl", "Python", "PHP"],
-    Sysadmin : ["pfsense", "iptables", "private keys", "sudo"],
-    Framework : ["Bootstrap", "NodeJS"]
+    Sysadmin : ["pfsense", "iptables", "private keys", "sudo", "Cisco"],
+    Framework : ["Bootstrap", "NodeJS"],
+    Certification : ["CCNA"]
   }
 };
 ```
