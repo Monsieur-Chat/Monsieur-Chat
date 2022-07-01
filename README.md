@@ -10,11 +10,11 @@
 ```js
 const Me = {
   Personal: {
-    Learning : ["Network", "Pentesting", "Web", "Sysadmin", "Pwn"],
+    Learning : ["Network", "Pentesting", "Web", "sysadmin", "Pwn"],
     Interest : ["Java", "Go", "Cloud", "Forensic"],
     Project : ["Entropy", "0x307845.me"],
     FavouriteDistro: "Arch",
-    WM : "Kwin"
+    WM : "I3"
   },
   Skills: {
     Pentesting : ["Metasploit Framework", "SQLMap", "Burp Suite", "gobuster" , "and more ..."],
