@@ -10,17 +10,17 @@
 ```js
 const Me = {
   Personal: {
-    Learning : ["Network", "Pentesting", "Web", "sysadmin", "Pwn"],
-    Interest : ["Java", "Go", "Cloud", "Forensic"],
-    Project : ["Entropy", "0x307845.me"],
-    FavouriteDistro: "Arch",
+    Learning : ["Network", "Pentesting", "Web", "sysadmin",],
+    Interest : ["RE", "Pwn", "Cloud", "Forensic"],
+    Project : ["LaboRT", "0x307845.me", "BitShark"],
+    FavouriteDistro: "TempleOS",
     WM : "I3"
   },
   Skills: {
     Pentesting : ["Metasploit Framework", "SQLMap", "Burp Suite", "gobuster" , "and more ..."],
-    Programming : ["C", "JS", "Perl", "Python", "PHP"],
-    Sysadmin : ["pfsense", "iptables", "private keys", "sudo", "Cisco"],
-    Framework : ["Bootstrap", "NodeJS"],
+    Programming : ["C", "JS", "Powershell", "Python", "PHP", "Bash"],
+    Sysadmin : ["active directory", "crontab", "grafana", "stormshield", "Cisco"],
+    Virtualization : ["Docker", "Vmware", "Proxmox", "Hyper V"],
     Certification : ["CCNA, eJPT"]
   }
 };
