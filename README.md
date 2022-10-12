@@ -21,7 +21,7 @@ const Me = {
     Programming : ["C", "JS", "Perl", "Python", "PHP"],
     Sysadmin : ["pfsense", "iptables", "private keys", "sudo", "Cisco"],
     Framework : ["Bootstrap", "NodeJS"],
-    Certification : ["CCNA"]
+    Certification : ["CCNA, eJPT"]
   }
 };
 ```
