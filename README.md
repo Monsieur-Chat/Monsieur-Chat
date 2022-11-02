@@ -14,7 +14,7 @@ const Me = {
     Interest : ["RE", "Pwn", "Cloud", "Forensic"],
     Project : ["LaboRT", "0x307845.me", "BitShark"],
     FavouriteDistro: "TempleOS",
-    WM : "I3"
+    WM : "xfce"
   },
   Skills: {
     Pentesting : ["Metasploit Framework", "SQLMap", "Burp Suite", "gobuster" , "and more ..."],
