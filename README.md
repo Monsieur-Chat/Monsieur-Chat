@@ -17,7 +17,7 @@ const Me = {
     WM : "xfce"
   },
   Skills: {
-    Pentesting : ["Metasploit Framework", "SQLMap", "Burp Suite", "gobuster" , "and more ..."],
+    Pentesting : ["Metasploit", "SQLMap", "Burp Suite", "gobuster" , "dirsearch", "Wireshark", ...],
     Programming : ["C", "JS", "Powershell", "Python", "PHP", "Bash"],
     Sysadmin : ["active directory", "crontab", "grafana", "stormshield", "Cisco"],
     Virtualization : ["Docker", "Vmware", "Proxmox", "Hyper V"],
