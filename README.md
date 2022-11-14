@@ -13,7 +13,7 @@ const Me = {
     Learning : ["Network", "Pentesting", "Web", "sysadmin",],
     Interest : ["RE", "Pwn", "Cloud", "Forensic"],
     Project : ["LaboRT", "0x307845.me", "BitShark"],
-    FavouriteDistro: "TempleOS",
+    OS : "Manjaro",
     WM : "xfce"
   },
   Skills: {
