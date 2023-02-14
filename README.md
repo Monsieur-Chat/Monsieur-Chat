@@ -11,7 +11,7 @@
 const Me = {
   Personal: {
     Learning : ["Network", "Pentesting", "Web", "sysadmin",],
-    Interest : ["RE", "Pwn", "Cloud", "Forensic"],
+    Interest : ["Active Directory", "Lock picking", "Cloud", "Forensic"],
     Project : ["LaboRT", "0x307845.me", "BitShark"],
     OS : "Manjaro",
     WM : "xfce"
@@ -19,9 +19,9 @@ const Me = {
   Skills: {
     Pentesting : ["Metasploit", "SQLMap", "Burp Suite", "gobuster" , "dirsearch", "Wireshark", ...],
     Programming : ["C", "JS", "Powershell", "Python", "PHP", "Bash"],
-    Sysadmin : ["active directory", "crontab", "grafana", "stormshield", "Cisco"],
-    Virtualization : ["Docker", "Vmware", "Proxmox", "Hyper V"],
-    Certification : ["CCNA, eJPT"]
+    Sysadmin : ["Active directory", "crontab", "grafana", "stormshield", "Cisco", "iptable", "fortinet"],
+    Virtualization : ["Docker", "Vmware", "Proxmox", "Hyper V", "ESXI"],
+    Certification : ["CCNA1, eJPT", "CCNA2"]
   }
 };
 ```
