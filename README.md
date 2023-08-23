@@ -1,7 +1,7 @@
 ```js
 const Me = {
   Personal: {
-    Learning : ["Network", "Pentesting",],
+    Learning : ["Network", "Pentesting"],
     Interest : ["Active Directory", "Lock picking", "Cloud", "Forensic", "Web"],
     Project : ["0x307845.me"],
     Work : ["Junior Pentester"],
