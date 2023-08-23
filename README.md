@@ -1,9 +1,10 @@
 ```js
 const Me = {
   Personal: {
-    Learning : ["Network", "Pentesting", "Web", "sysadmin",],
-    Interest : ["Active Directory", "Lock picking", "Cloud", "Forensic"],
-    Project : ["LaboRT", "0x307845.me", "BitShark"],
+    Learning : ["Network", "Pentesting",],
+    Interest : ["Active Directory", "Lock picking", "Cloud", "Forensic", "Web"],
+    Project : ["0x307845.me"],
+    Work : ["Junior Pentester"],
     OS : "Manjaro",
     WM : "xfce"
   },
