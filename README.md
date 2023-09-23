@@ -13,7 +13,7 @@ const Me = {
     Programming : ["C", "JS", "Powershell", "Python", "PHP", "Bash"],
     Sysadmin : ["Active directory", "crontab", "grafana", "stormshield", "Cisco", "iptable", "fortinet"],
     Virtualization : ["Docker", "Vmware", "Proxmox", "Hyper V", "ESXI"],
-    Certification : ["CCNA1, eJPT", "CCNA2", "CSNA"]
+    Certification : ["CCNA1, eJPT", "CSNA"]
   }
 };
 ```
