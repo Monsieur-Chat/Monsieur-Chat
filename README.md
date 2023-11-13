@@ -6,7 +6,7 @@ const Me = {
     Project : ["0x307845.me"],
     Work : ["Junior Pentester"],
     OS : "Manjaro",
-    WM : "xfce"
+    WM : "Gnome"
   },
   Skills: {
     Pentesting : ["Metasploit", "SQLMap", "Burp Suite", "gobuster" , "dirsearch", "Wireshark", ...],
