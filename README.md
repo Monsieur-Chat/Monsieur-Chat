@@ -3,7 +3,7 @@ const Me = {
   Personal: {
     Learning : ["Network", "Pentesting"],
     Interest : ["Active Directory", "Lock picking", "Cloud", "Forensic", "Web"],
-    Project : ["0x307845.me"],
+    Project : ["monsieur.chat"],
     Work : ["Junior Pentester"],
     OS : "Manjaro",
     WM : "Gnome"
