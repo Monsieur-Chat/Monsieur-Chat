@@ -5,7 +5,7 @@ const Me = {
     Interest : ["Active Directory", "Lock picking", "Cloud", "Forensic", "Web"],
     Project : ["monsieur.chat"],
     Work : ["Junior Pentester"],
-    OS : "Manjaro",
+    OS : "Fedora",
     WM : "Gnome"
   },
   Skills: {
